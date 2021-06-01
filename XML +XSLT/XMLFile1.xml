@@ -1,0 +1,154 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="XSLTFile1.xslt"?>
+<Biblioteka>
+
+  <gra rodzaj="singleplayer/multiplayer">
+    <numer>8</numer>
+    <tytul> Battlefield 3</tytul>
+    <autorzy>
+      <studio lubie="nie">
+        <nazwa>Digital Illusions CE</nazwa>
+        <kraj> Szwecja </kraj>
+      </studio>
+      <wydawca> Electronics Arts </wydawca>
+    </autorzy>
+    <gatunek> First Person Shooter(FPS) </gatunek>
+    <platformy>  PC, PlayStation 3, Xbox 360, iOS </platformy>
+    <datawydania> 2810.2011 </datawydania>
+    <link> https://www.origin.com/pol/pl-pl/store/battlefield/battlefield-3 </link>
+    <ocena>0.85</ocena>
+    <PEGI>16</PEGI>
+    <img src="battlefield3_img4.jpg"/>
+   </gra>
+  
+  <gra rodzaj="singleplayer/multiplayer">
+    <numer>5</numer>
+    <tytul> Battlefield 4</tytul>
+    <autorzy>
+      <studio lubie="nie">
+        <nazwa>Digital Illusions CE</nazwa>
+        <kraj> Szwecja </kraj>
+      </studio>
+      <wydawca> Electronics Arts </wydawca>
+    </autorzy>
+    <gatunek> First Person Shooter(FPS) </gatunek>
+    <platformy>  PC, PlayStation 3, Xbox 360, PlayStation 4, Xbox One </platformy>
+    <datawydania> 3110.2013 </datawydania>
+    <link> https://www.origin.com/pol/pl-pl/store/battlefield/battlefield-4 </link>
+    <ocena>0.90</ocena>
+    <PEGI>18</PEGI>
+    <img src="bf4.jpg"/>
+  </gra>
+  <gra rodzaj="multiplayer/coop">
+    <numer>7</numer>
+    <tytul> Tom Clancy’s Rainbow Six Siege</tytul>
+    <autorzy>
+      <studio lubie="nie">
+        <nazwa> Ubisoft Montréal </nazwa>
+        <kraj> Kanada </kraj>
+      </studio>
+      <wydawca> Ubisoft </wydawca>
+    </autorzy>
+    <gatunek> First Person Shooter(FPS),Tactical Shooter </gatunek>
+    <platformy>  PC, PlayStation 4, Xbox One </platformy>
+    <datawydania> 0112.2015 </datawydania>
+    <link> https://rainbow6.ubisoft.com/siege/pl-pl/news/index.aspx </link>
+    <ocena>0.75</ocena>
+    <PEGI>18</PEGI>
+    <img src="r6s.jpg"/>
+  </gra>
+  <gra rodzaj="multiplayer">
+    <numer>6</numer>
+    <tytul> League of Legends </tytul>
+    <autorzy>
+      <studio lubie="nie">
+        <nazwa> Riot Games </nazwa>
+        <kraj> USA </kraj>
+      </studio>
+      <wydawca> Riot Games </wydawca>
+    </autorzy>
+    <gatunek> Multiplayer online battle arena (MOBA)</gatunek>
+    <platformy> PC </platformy>
+    <datawydania> 2710.2009 </datawydania>
+    <link> https://eune.leagueoflegends.com/pl/ </link>
+    <ocena>0.78</ocena>
+    <PEGI>12</PEGI>
+    <img src="lol.jpg"/>
+  </gra>
+  <gra rodzaj="multiplayer">
+    <numer>1</numer>
+    <tytul> Heroes of the Storm </tytul>
+    <autorzy>
+      <studio lubie="tak">
+        <nazwa> Blizzard Entertainment </nazwa>
+        <kraj> USA </kraj>
+      </studio>
+      <wydawca> Blizzard Entertainment </wydawca>
+    </autorzy>
+    <gatunek> Multiplayer online battle arena (MOBA)</gatunek>
+    <platformy> PC </platformy>
+    <datawydania> 0206.2015 </datawydania>
+    <link> https://heroesofthestorm.com/pl-pl/ </link>
+    <ocena>0.95</ocena>
+    <PEGI>12</PEGI>
+    <img src="hots.jpg"/>
+  </gra>
+  <gra rodzaj="multiplayer">
+    <numer>3</numer>
+    <tytul> Counter-Strike: Global Offensive </tytul>
+    <autorzy>
+      <studio lubie="tak">
+        <nazwa> Valve Corporation, Hidden Path Entertainment </nazwa>
+        <kraj> USA </kraj>
+      </studio>
+      <wydawca> Valve Corporation </wydawca>
+    </autorzy>
+    <gatunek> First Person Shooter(FPS),Tactical Shooter </gatunek>
+    <platformy> PC, PlayStation 3, Xbox 360 </platformy>
+    <datawydania> 2107.2012 </datawydania>
+    <link> https://store.steampowered.com/app/730/CounterStrike_Global_Offensive/?l=polish</link>
+    <ocena>0.70</ocena>
+    <PEGI>18</PEGI>
+    <img src="csgo.jpg"/>
+  </gra>
+  <gra rodzaj="singleplayer/multiplayer">
+    <numer>2</numer>
+    <tytul> StarCraft II </tytul>
+    <autorzy>
+      <studio lubie="tak">
+        <nazwa> Blizzard Entertainment </nazwa>
+        <kraj> USA </kraj>
+      </studio>
+      <wydawca> Blizzard Entertainment </wydawca>
+    </autorzy>
+    <gatunek> Real time strategy(RTS) </gatunek>
+    <platformy> PC </platformy>
+    <datawydania> 2707.2010 </datawydania>
+    <link> https://starcraft2.com/pl-pl/ </link>
+    <ocena>0.90</ocena>
+    <PEGI>16</PEGI>
+    <img src="sc2.jpg"/>
+  </gra>
+  <gra rodzaj="singleplayer/multiplayer">
+    <numer>4</numer>
+    <tytul> Call of duty: Black OPS II</tytul>
+    <autorzy>
+      <studio lubie="tak">
+        <nazwa> Treyarch </nazwa>
+        <kraj> USA </kraj>
+      </studio>
+      <wydawca> Activision </wydawca>
+    </autorzy>
+    <gatunek> First Person Shooter(FPS) </gatunek>
+    <platformy> PC, PlayStation 3, Xbox 360, Wii U </platformy>
+    <datawydania> 1311.2012 </datawydania>
+    <link> https://store.steampowered.com/agecheck/app/202970/ </link>
+    <ocena>0.83</ocena>
+    <PEGI>18</PEGI>
+    <img src="cod.jpg"/>
+  </gra>
+  <autor>
+    <nazwisko>Kaczmarczyk Jacek</nazwisko>
+    <data>06.12.2019</data>
+  </autor>
+</Biblioteka>
